@@ -1,32 +1,15 @@
-# data-analytics-portfolio
 # Web Novels Market Analysis
 
-## Project Overview
-This project analyzes the global web novels market using a dataset of 24,000+ titles from NovelUpdates.
-The goal is to identify market trends, popularity patterns, and strategic opportunities for publishers.
+## 📊 Interactive Dashboard (Power BI)
+This project includes an interactive Power BI dashboard designed to analyze market trends, popularity metrics, and strategic opportunities in the web novels market.
 
-## Objectives
-- Clean and prepare a large cultural dataset
-- Analyze market growth, popularity, and reader engagement
-- Build interactive dashboards to support business decision-making
+### Dashboard Overview
+- Market overview and growth trends
+- Popularity and reader engagement analysis
+- Performance by language and genre
+- Strategic opportunities for publishers
 
-## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Power BI
-- DAX
-- Jupyter Notebook
-
-## Key Deliverables
-- Cleaned and structured dataset
-- Exploratory Data Analysis (EDA)
-- KPI creation (CAGR, popularity index, engagement metrics)
-- Interactive Power BI dashboard
-
-## Key Insights
-- Strong growth in Korean and Chinese web novels
-- Popularity highly concentrated on a limited number of titles
-- Clear genre and language-based market segmentation
-
-## How to Explore
-- Notebooks are available in the `notebooks/` folder
-- Dashboard screenshots are available in `dashboards/`
+📷 **Dashboard Preview**
+![Market Overview)] <img width="1433" height="800" alt="Global Market_Novels Analysis" src="https://github.com/user-attachments/assets/102e8061-bc1c-4e67-a9a6-93757aca1102" />
+![Market Performance]<img width="1433" height="793" alt="Market Performance_Novels Analysis" src="https://github.com/user-attachments/assets/bbac6abd-1490-401c-a7c6-985a09f22ee6" />
+![Strategic Opportunities]<img width="1434" height="792" alt="Strategic Opportunities_Novels Analysis" src="https://github.com/user-attachments/assets/f68a7e24-1f55-43e2-8696-7b2da1c74e7c" />
