@@ -1,5 +1,5 @@
-# data-analytics-portfolio
 # Web Novels Market Analysis
+This project focuses on transforming raw cultural data into actionable business insights through an interactive Power BI dashboard.
 
 ## Project Overview
 This project analyzes the global web novels market using a dataset of 24,000+ titles from NovelUpdates.
